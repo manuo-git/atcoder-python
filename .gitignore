@@ -1,0 +1,8 @@
+heuristic/
+lib/
+minecraft/
+starrail/
+test/
+.vscode/settings.json
+__pycache__/pypyjit.cpython-310.pyc
+output.txt
