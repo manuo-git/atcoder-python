@@ -2,5 +2,6 @@ rn=python answer.py $l input.txt
 brn=python answer_bf.py $l input.txt
 hrn=python heuristic.py $l hinput.txt
 grn=python gen_rand.py
+crn=cargo run $l input.txt
 clear=rmdir /s /q test
 test=oj generate-input --hack-actual "python answer.py" --hack-expected "python answer_bf.py" "python gen_rand.py" 3
