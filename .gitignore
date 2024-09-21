@@ -6,3 +6,7 @@ test/
 .vscode/settings.json
 __pycache__/pypyjit.cpython-310.pyc
 output.txt
+answer.py
+answer_bf.py
+input.txt
+temp1.py
