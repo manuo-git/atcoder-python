@@ -75,6 +75,12 @@
 			"dir = {\"U\":(1, 0), \"D\":(-1, 0), \"R\":(0, 1), \"L\":(0, -1)}"
 		]
 	},
+	"posng": {
+		"prefix": "posng",
+		"body": [
+			"if ni < 0 or H <= ni or nj < 0 or W <= nj: continue"
+		]
+	},
 	"Sorted set": {
 		"prefix": "sortedset",
 		"body": [
