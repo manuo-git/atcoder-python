@@ -1,0 +1,9 @@
+rn=python answer.py $l inout/input.txt MY_JUDGE
+brn=python random_test/answer_bf.py $l inout/input.txt
+hrn=python heuristic.py $l hinput.txt
+grn=python random_test/gen_rand.py
+crn=cargo run $l input.txt
+clear=rmdir /s /q test
+test=oj generate-input --hack-actual "python answer.py" --hack-expected "python random_test/answer_bf.py" "python random_test/gen_rand.py" 1
+cl=python lib/paste2clip.py
+c=python lib/copyfromclip.py
