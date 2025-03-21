@@ -1,4 +1,5 @@
 rn=python answer.py $l inout/input.txt MY_JUDGE
+rnrn=python answer.py $l inout/input.txt MY_JUDGE
 brn=python random_test/answer_bf.py $l inout/input.txt
 hrn=python heuristic.py $l hinput.txt
 grn=python random_test/gen_rand.py
