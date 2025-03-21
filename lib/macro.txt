@@ -8,3 +8,4 @@ clear=rmdir /s /q test
 test=oj generate-input --hack-actual "python answer.py" --hack-expected "python random_test/answer_bf.py" "python random_test/gen_rand.py" 1
 cl=python lib/paste2clip.py
 c=python lib/copyfromclip.py
+updatesnipet=python lib/updatesnipet.py
