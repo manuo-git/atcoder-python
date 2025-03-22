@@ -9,3 +9,4 @@ test=oj generate-input --hack-actual "python answer.py" --hack-expected "python 
 cl=python lib/paste2clip.py
 c=python lib/copyfromclip.py
 updatesnipet=python lib/updatesnipet.py
+file2json=python lib/file2json.py
