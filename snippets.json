@@ -861,7 +861,7 @@
 			"            cur = self._bf[cur]",
 			"            ret.append(cur)",
 			"        ret.reverse()",
-			"        return ret",
+			"        return ret"
 		]
 	},
 	"Bucket List": {
