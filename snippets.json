@@ -497,6 +497,7 @@
 	"SCC":{
 		"prefix": "scc",
 		"body": [
+			"# edges = [(u1, v1), (u2, v2), ... ,(uM, vM)]",
 			"def scc(N,edges):",
 			"    M=len(edges)",
 			"    start=[0]*(N+1)",
