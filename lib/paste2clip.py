@@ -28,7 +28,6 @@ with open("answer.py", "r", encoding="utf-8") as f:
     if dfsflag and not pypyflag:
         for s in saikikeisatu:
             print(s)
-        print("\"dfs\"を検知しました。おまじないが必要かも。")
-        exit()
+        print("\"dfs\"を検知しました。おまじないが必要かも。コピー済み。")
     text = "".join(lines)
     pyperclip.copy(text)
